@@ -1,0 +1,20 @@
+[
+    {
+        "name": "COSTUM0",
+        "gridSize": 4,
+        "empires": 18,
+        "nests": 27
+    },
+    {
+        "name": "COSTUM1",
+        "gridSize": 6,
+        "empires": 32,
+        "nests": 48
+    },
+    {
+        "name": "COSTUM2",
+        "gridSize": 9,
+        "empires": 64,
+        "nests": 96
+    }
+]
